@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "677555072647",
+    "project_id": "vivacall-f3b46",
+    "storage_bucket": "vivacall-f3b46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677555072647:android:a0804c29c462aa77599222",
+        "android_client_info": {
+          "package_name": "com.example.vivac"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfbc69_fklatz28MwoyRlz0O7JmQy_97A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677555072647:android:4a0631f231d2225d599222",
+        "android_client_info": {
+          "package_name": "com.example.vivacall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfbc69_fklatz28MwoyRlz0O7JmQy_97A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
